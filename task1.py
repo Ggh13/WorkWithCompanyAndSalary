@@ -25,3 +25,4 @@ with open("vacancy_new.csv",'w', encoding="utf-8", newline='') as d:
     for i in m:
         w.writerow(i)
     
+input()
